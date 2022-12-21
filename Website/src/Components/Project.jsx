@@ -9,8 +9,10 @@ export default function Project(props)
             <h1>{props.proj.name}</h1>
             <p>{props.proj.description}</p>
             <h3>{props.proj.technologies}</h3>
-            <a href={props.proj.link1}>{props.proj.link1Name}</a>
-            <a href={props.proj.link2}>{props.proj.link2Name}</a>
+            <div className={"projectLinks-" + props.mode}>
+                {props.proj.link1 != "" && <a href={props.proj.link1}>{props.proj.link1Name}</a>}
+                {props.proj.link2 != "" && <a href={props.proj.link2}>{props.proj.link2Name}</a>}
+            </div>
         </div>
     </div>
     )

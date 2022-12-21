@@ -20,15 +20,15 @@ export default function Contacts(props)
             <h1 className="contactsTitle">{language[1]}</h1>
             <div className="contact">
                 <h1>Email:</h1>
-                <p>luiscgsqueiros@gmail.com</p>
+                <p className={"contactText-" + props.mode}>luiscgsqueiros@gmail.com</p>
             </div>
             <div className="contact">
                 <h1>{language[11] + ":"}</h1>
-                <p>(+351)927494789</p>
+                <p className={"contactText-" + props.mode}>(+351)927494789</p>
             </div>
             <div className="contact">
                 <h1>LinkedIn:</h1>
-                <p>https://www.linkedin.com/in/luis-queiros-2553b4254/</p>
+                <a className={"contactText-" + props.mode} href = "https://www.linkedin.com/in/luis-queiros-2553b4254/">https://www.linkedin.com/in/luis-queiros-2553b4254/</a>
             </div>
         </div>
     )

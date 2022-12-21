@@ -8,13 +8,7 @@ export default [
     "Curso",//6
     "Hobby e Curso",//7
     "Desenvolvedor de Software",//8
-    "Historia de vida s",//9
+    " Entusiasta de tecnologia de 21 anos. Desenvolvedor de software como hobby há mais de 10 anos, trabalhando em diversas áreas, desde desenvolvimento de jogos até páginas web e modelação 3D. Curso em engenharia eletrotécnica e computação no IPCA, mas a maioria do meu conhecimento originou na minha vontade de aprender por mim mesmo. Espero transformar esta paixão numa carreira.",//9
     "Tecnologias Conhecidas",//10
-    "Telefone",//11
-    "Hobby & Degree",//12
-    "Hobby & Degree",//13
-    "Hobby & Degree",//14
-    "Hobby & Degree",//15
-    "Hobby & Degree",//16
-    "Hobby & Degree"
+    "Telefone",
 ]

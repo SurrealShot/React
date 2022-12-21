@@ -8,16 +8,7 @@ export default [
     "Degree",//6
     "Hobby & Degree",//7
     "Software Developer",//8
-    " 21 year old life-long techology enthusiast. Have worked on software development" +
-    " as an hobby for about 10 years, working on diverse areas, from game development to"+
-    " webpages and even 3d modeling. Degree in Eletronics and engineering from IPCA, but most of"+
-    "my knolodge has come from my interest in learning for myself.Hoping to turn this passion into a carrer.",//9
+    " 21-year-old life-long technology enthusiast. Have worked on software development as a hobby for about 10 years, working on diverse areas, from game development to webpages and even 3d modeling. Degree in Electronics and engineering from IPCA, but most of my knowledge has come from my interest in learning for myself. Hoping to turn this passion into a career.",//9
     "Technology known",//10
-    "Phone",//11
-    "Hobby & Degree",//12
-    "Hobby & Degree",//13
-    "Hobby & Degree",//14
-    "Hobby & Degree",//15
-    "Hobby & Degree",//16
-    "Hobby & Degree"
+    "Phone"
 ]
