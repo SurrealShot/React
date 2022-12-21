@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Inter;
+    background-color: rgb(35, 37, 45);
+}
+.Nav {
+    display: flex;
+    align-items: center;
+    background-color:rgb(30, 31, 46);
+    margin: 0;
+}
+.NavL{
+    display: flex;
+    padding: 10px;
+    margin-right: auto;
+
+}
+.NavL > img {
+    margin-right: 10px;
+}
+.NavL > h1 {
+    color: #61DAFB;
+    font-weight: 700;
+}
+.NavR{
+    margin-right: 30px;
+    color: azure;
+    font-weight: 600;
+}
+.main{
+    margin: 0;
+    padding: 0;
+    background-image: url("./Images/background.png");
+    background-repeat:no-repeat;
+    background-position:right;
+    background-position-y: center;
+    background-size: 20%;
+
+}
+.title{
+    color:azure;
+    margin: 0;
+    padding: 20px;
+    margin-left: 30px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.list{
+    color:azure;
+    margin: 0;
+    margin-left: 40px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 50px;
+}
+.list > li::marker{
+    font-size: 2rem;
+    color: #61DAFB;
+}
