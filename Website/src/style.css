@@ -15,7 +15,7 @@ body {
 /*NavBar-----------------------------------*/
 .nav-lightMode{
     display: flex;
-    background: linear-gradient(180deg, #6fdbff 1.18%, #cbeaf0 100%);
+    background: linear-gradient(180deg, #8b8b8b 1.18%, #d2d2d2 100%);
 }
 .nav-darkMode{
     display: flex;
@@ -184,16 +184,16 @@ body {
     display: grid;
     grid-template: 100px 100px / 100px 100px 100px 100px;
     gap: 10px;
-    column-gap: 75px;
+    column-gap: 100px;
 }
 .tech-lightMode{
-    min-width: 150px;
+    min-width: 175px;
     border-radius: 10px;
     border: 3px solid #444; 
     margin: 10px;
 }
 .tech-darkMode{
-    min-width: 150px;
+    min-width: 175px;
     border-radius: 10px;
     border: 3px solid rgb(177, 177, 177); 
     margin: 10px;
@@ -299,7 +299,6 @@ body {
 }
 .contact{
     padding-left: 20px;
-    border-bottom: 1px solid #100c1d;
 }
 .contact > h1{
     font-size: 30px;

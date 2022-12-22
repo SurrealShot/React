@@ -7,9 +7,9 @@ import Projects from './Pages/Projects';
 
 export default function App()
 {
-    const [mode, setMode] = React.useState("lightMode")
+    const [mode, setMode] = React.useState("darkMode")
     const [page, setPage] = React.useState("Home")
-    const [lang, setLang] = React.useState("PT")
+    const [lang, setLang] = React.useState("EN")
 
     
     

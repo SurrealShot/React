@@ -1,7 +1,7 @@
 export default[
     {key: 1 , name :"C++", source : 2},
     {key: 2 , name :"C#", source : 3},
-    {key: 3 , name :"C", source : 2},
+    {key: 3 , name :"JavaScript", source : 3},
     {key: 4 , name :"GitHub", source : 3},
     {key: 5 , name :"SQL", source : 2},
     {key: 6 , name :"React", source : 2},

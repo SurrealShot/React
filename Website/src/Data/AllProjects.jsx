@@ -1,6 +1,6 @@
 export default{
     PT :[
-    {key: 1 , img : "../Images/kristaltek.jpg", name :"KristalTek: Estágio de Robótica", description : "Estágio com o objetivo de desenvolver uma solução para a automação de uma Máquina de medição CMM. Solução desenvolvida envolveu um PLC a controlar o processo robótico com estados controlados por um programa C#."
+    {key: 1 , img : "../Images/kristaltek.jpg", name :"Estágio de Robótica", description : "Estágio com o objetivo de desenvolver uma solução para a automação de uma Máquina de medição CMM. Solução desenvolvida envolveu um PLC a controlar o processo robótico com estados controlados por um programa C#."
     , technologies: "Tecnologias chave: Robótica, C#, PLC", link1:"https://kristaltek.pt/",link1Name : "Site KristalTek", link2:"https://copper-lucia-79.tiiny.site/", link2Name : "Relatório de Estágio"},
     
     {key: 2 , img : "../Images/ipca.png", name :"IPCA: Engenharia Eletrotécnica e de Computadores", 
